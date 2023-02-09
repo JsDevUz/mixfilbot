@@ -1,0 +1,24 @@
+{
+  "id": "44f59685-3342-492e-9e73-b2df7bfe0c57",
+  "space": 51800,
+  "runtime": "nodejs14.x",
+  "name": "kinobot",
+  "path": "o8omqv",
+  "project": "a0ud8q0t",
+  "account": "144798365827",
+  "region": "eu-central-1",
+  "deps": [
+    "deta@^1.1.0",
+    "express@^4.18.2",
+    "install@^0.13.0",
+    "lodash@^4.17.21",
+    "npm@^9.4.0",
+    "telegraf@^4.11.2"
+  ],
+  "envs": [
+    "BOT_TOKEN"
+  ],
+  "public": true,
+  "log_level": "on",
+  "cron": ""
+}
