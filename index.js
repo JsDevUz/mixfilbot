@@ -1,7 +1,7 @@
 const { get } = require('lodash');
 const { Telegraf } = require('telegraf');
 
-const bot = new Telegraf('5607633555:AAElFBCn6rL7ft9h8cMf204RYJNijAzbROE');
+const bot = new Telegraf('5607633555:AARYJNijAzbROE');
 bot.start(async (ctx) => await ctx.reply('Welcome'));
 
 bot.on('text', async (ctx) => {
